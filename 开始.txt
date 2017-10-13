@@ -1,0 +1,2 @@
+
+Files must be stored under trunk/ or a branches/ subdirectory
